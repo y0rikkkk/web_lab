@@ -1,0 +1,14 @@
+Имя: 
+Фамилия: 
+Email: erikqwert9@gmail.com
+Обратная связь: 
+Пол: male
+Интересы: sports, music
+
+Имя: Эрик
+Фамилия: Ишбаев
+Email: erikqwert9@gmail.com
+Обратная связь: 
+Пол: male
+Интересы: music, movies
+
